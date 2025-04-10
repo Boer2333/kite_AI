@@ -315,7 +315,7 @@ class 简化KiteAI自动化 {
         this.记录日志('🚀', `开始执行互动任务，目标: ${this.目标成功次数}次成功互动`, 'green');
         
         const 交易分析节点 = "https://deployment-xkerjnnbdtazr9e15x3y7fi8.stag-vxzy.zettablock.com/main";
-        const 最大尝试次数 = 100; // 设置最大尝试次数，防止无限循环
+        const 最大尝试次数 = 40; // 设置最大尝试次数，防止无限循环
         
         try {
             while (this.成功次数 < this.目标成功次数 && this.当前互动次数 < 最大尝试次数) {
