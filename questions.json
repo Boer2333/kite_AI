@@ -1,0 +1,28 @@
+{
+    "kite_ai": {
+        "name": "Kite AI 助手",
+        "endpoint": "https://deployment-vxjkb0yqft5vlwzu7okkwa8l.stag-vxzy.zettablock.com/main",
+        "deployment_id": "deployment_vxJKb0YqfT5VLWZU7okKWa8L",
+        "questions": [
+            "问题1",
+            "问题2",
+            "问题3"
+        ]
+    },
+    "crypto_price": {
+        "name": "加密价格助手",
+        "endpoint": "https://deployment-fsegykivcls3m9nrpe9zguy9.stag-vxzy.zettablock.com/main",
+        "deployment_id": "deployment_fseGykIvCLs3m9Nrpe9Zguy9",
+        "questions": [
+            "问题1",
+            "问题2",
+            "问题3"
+        ]
+    },
+    "trading_analyzer": {
+        "name": "交易分析器",
+        "endpoint": "https://deployment-vzbfwrddjthxis3sfplnhx6k.stag-vxzy.zettablock.com/main",
+        "deployment_id": "deployment_xkerJnNBdTaZr9E15X3Y7FI8",
+        "questions": []
+    }
+}
