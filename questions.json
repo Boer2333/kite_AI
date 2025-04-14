@@ -1,7 +1,7 @@
 {
     "kite_ai": {
         "name": "Kite AI 助手",
-        "endpoint": "https://deployment-vxjkb0yqft5vlwzu7okkwa8l.stag-vxzy.zettablock.com/main",
+        "endpoint": "https://deployment-qkjvbjou3czo2rpcalcqxkvm.stag-vxzy.zettablock.com/main",
         "deployment_id": "deployment_vxJKb0YqfT5VLWZU7okKWa8L",
         "questions": [
             "问题1",
@@ -21,8 +21,8 @@
     },
     "trading_analyzer": {
         "name": "交易分析器",
-        "endpoint": "https://deployment-vzbfwrddjthxis3sfplnhx6k.stag-vxzy.zettablock.com/main",
-        "deployment_id": "deployment_xkerJnNBdTaZr9E15X3Y7FI8",
+        "endpoint": "https://deployment-d04nq13fmoind4yxbg4jwlih.stag-vxzy.zettablock.com/main",
+        "deployment_id": "deployment_xkerJnNBdTaZr9E15X3Y7FI8",//反馈暂时不管用这个
         "questions": []
     }
 }
