@@ -81,9 +81,9 @@ class 简化KiteAI自动化 {
         this.失败次数 = 0;       // 失败次数
         this.AI终端节点 = AI终端节点配置;
         this.API权重 = {
-            "https://deployment-vxjkb0yqft5vlwzu7okkwa8l.stag-vxzy.zettablock.com/main": 0.6,
+            "https://deployment-qkjvbjou3czo2rpcalcqxkvm.stag-vxzy.zettablock.com/main": 0.6,
             "https://deployment-fsegykivcls3m9nrpe9zguy9.stag-vxzy.zettablock.com/main": 0.4,
-            "https://deployment-xkerjnnbdtazr9e15x3y7fi8.stag-vxzy.zettablock.com/main": 0
+            "https://deployment-d04nq13fmoind4yxbg4jwlih.stag-vxzy.zettablock.com/main": 0
         };
     }
 
@@ -314,7 +314,7 @@ class 简化KiteAI自动化 {
     async 执行互动任务() {
         this.记录日志('🚀', `开始执行互动任务，目标: ${this.目标成功次数}次成功互动`, 'green');
         
-        const 交易分析节点 = "https://deployment-xkerjnnbdtazr9e15x3y7fi8.stag-vxzy.zettablock.com/main";
+        const 交易分析节点 = "https://deployment-d04nq13fmoind4yxbg4jwlih.stag-vxzy.zettablock.com/main";
         const 最大尝试次数 = 40; // 设置最大尝试次数，防止无限循环
         
         try {
